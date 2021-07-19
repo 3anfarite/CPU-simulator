@@ -1,0 +1,17 @@
+#this is a comment
+#this is the input file
+
+#an empty line and a comment are ignored
+
+#policies are : fcfs sjf and rr:"roundrobin"
+
+#compile in the terminal in this form (  "program" "filename" "policy" )
+
+proc1 0 3
+
+#proc8 6 4     (this process is ignored because it's a comment)
+
+proc2 1 6
+proc3 4 4
+proc4 7 1
+proc5 6	2
